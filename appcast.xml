@@ -1,12 +1,12 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>GoProTracker</title>
+        <title>GoPro Tracker</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 24 May 2020 15:40:44 -0700</pubDate>
+            <pubDate>Sun, 24 May 2020 16:18:33 -0700</pubDate>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://www.dhurd.com/GoProTracker.zip" sparkle:version="m3" sparkle:shortVersionString="1.0" length="5628708" type="application/octet-stream" sparkle:edSignature="lqVBe5Jq7QFxz2XFQ0pnkMqG9d8f42CSF0/25MatioePkLnd8aFqCrGCGujTEam0Tjxc+lJrd5iYybSKXjRtDg=="/>
+            <enclosure url="https://www.dhurd.com/releases/GoPro%20Tracker.zip" sparkle:version="m4" sparkle:shortVersionString="1.0" length="5629231" type="application/octet-stream" sparkle:edSignature="9iL/9qGJ+nL1KiGnCSc60KdlVr+eGjEDK1PJde32IGqmRGxuWbFFWbr5BnNJGdySPz757H+i2MeoHJlMoHr+Cw=="/>
         </item>
     </channel>
 </rss>
