@@ -11,3 +11,5 @@ Get notified when a GoPro card is mounted, and track all currently connected car
 Allows GoPro integration into a Parashoot workflow.
 
 Compatible with macOS 10.11 and higher.
+
+[Download the latest version.](https://goproupdates.dhurd.com/GoPro_Tracker.dmg)
