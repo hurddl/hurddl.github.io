@@ -13,3 +13,5 @@ Allows GoPro integration into a Parashoot workflow.
 Compatible with macOS 10.11 and higher.
 
 [Download the latest version.](https://goproupdates.dhurd.com/GoPro_Tracker.dmg)
+
+[Dummy GoPro disk images.](https://goproupdates.dhurd.com/GoPro_Disk_Images.zip)
