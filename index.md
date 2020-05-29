@@ -20,8 +20,6 @@ After letter assignment, GoPro Tracker can rename all future known volumes on mo
 
 Compatible with macOS 10.11 and higher.
 
-<br>
-
 [Download the latest version.](https://goproupdates.dhurd.com/GoPro_Tracker.dmg)
 
 [Download GoPro disk images for testing.](https://goproupdates.dhurd.com/GoPro_Disk_Images.zip)
