@@ -23,3 +23,10 @@ Compatible with macOS 10.11 and higher.
 [Download the latest version.](https://goproupdates.dhurd.com/GoPro_Tracker.dmg)
 
 [Download GoPro disk images for testing.](https://goproupdates.dhurd.com/GoPro_Disk_Images.zip)
+
+<br>
+
+***
+
+**Created by David Hurd.**<br>
+For support, message me on [Facebook](https://m.me/david.hurd.31){:target="_blank"}.
