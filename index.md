@@ -4,18 +4,23 @@
 
 layout: default
 ---
-#### Get notified when a GoPro card is mounted, and track all currently connected cards by camera letter.
+### Get notified when a GoPro card is mounted, and track all currently connected cards by camera letter.
+
 Receive notifications with the newly mounted GoPro's volume name and letter assignment, if any. Easily assign a letter directly from the notification, or manage all camera assignments from the Settings window. 
 
-#### Allows GoPro integration into a Parashoot workflow.
+### Allows GoPro integration into a Parashoot workflow.
+
 With camera identification by serial number, there's no need to keep letter assignments in the volume name. Camera assistants can format all MicroSD cards in camera, and GoPro Tracker will inform you which camera they were used in.
 
-#### Automatically rename GoPro volumes with their assigned camera letter.
+### Automatically rename GoPro volumes with their assigned camera letter.
+
 After letter assignment, GoPro Tracker can rename all future known volumes on mount. With unique volume names based on letter assignment, you can connect multiple GoPro cards, queue transfers in your data management software, and quickly move on to other tasks. 
 
+<br>
 
 Compatible with macOS 10.11 and higher.
 
+<br>
 
 [Download the latest version.](https://goproupdates.dhurd.com/GoPro_Tracker.dmg)
 
