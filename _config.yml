@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   macOS utility for managing GoPro camera letter assignments
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www,dhurd.com" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: davidleehurd
+twitter_username: davidleehurd
 github_username:  hurddl
 
 # Build settings
