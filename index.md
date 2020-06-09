@@ -6,7 +6,7 @@ layout: default
 ---
 ### Get notified when a GoPro card is mounted, and track all currently connected cards by camera letter.
 
-Receive notifications with the newly mounted GoPro's volume name and letter assignment, if any. Easily assign a letter directly from the notification, or manage all camera assignments from the Settings window. 
+Receive notifications with the newly mounted GoPro's volume name and letter assignment, if any. Easily assign a letter directly from the notification, or manage all camera assignments from the Configuration window. 
 
 ### Allows GoPro integration into a Parashoot workflow.
 
